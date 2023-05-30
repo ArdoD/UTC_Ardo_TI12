@@ -1,0 +1,84 @@
+.section1{
+    height: 25vw;
+    padding-left: 2vw;
+    padding-top: 1vw;
+    padding-bottom: 2vw;
+    background-color: blanchedalmond;
+}
+
+.container-one{
+
+}
+
+.image-sec1 img{
+    width: 35vw;
+    height: 22vw;
+}
+
+.title-sec1{
+    margin-left: 2vw;
+    color: black;
+}
+
+.title-sec1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.title-sec1:hover{
+    text-decoration: none;
+}
+
+.section-title p{
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 1.5vw;
+}
+
+.section2{
+    height: 45vw;
+    padding-left: 2vw;
+    padding-top: 3vw;
+    padding-bottom: 2vw;
+}
+
+.container-sec2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.card{
+    margin-right: 1.5vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-image{
+    width: 18rem;
+    height: 15vw;
+}
+
+.section3{
+    background-color: blanchedalmond;
+    height: 170vw;
+    padding-left: 2vw;
+    padding-top: 2vw;
+}
+
+.container-sec3{
+    padding-right: 1vw;
+    padding-bottom: 2vw;
+}
+
+.container-card{
+    margin-top: 2vw;
+}
+
+.card-image-sec3{
+    width: 26rem;
+    height: 15vw;
+}
+
+.container-card a{
+    width: 26rem;
+    height: 2.5vw;
+}
